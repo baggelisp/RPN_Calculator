@@ -20,3 +20,8 @@ In reverse Polish notation, the former could be written 3 4 5 × −,
 which unambiguously means 3 (4 5 ×) − which reduces to 3 20 −;
 the latter could be written 3 4 − 5 × (or 5 3 4 − ×, if keeping similar formatting),
 which unambiguously means (3 4 −) 5 ×.
+
+
+
+
+![alt text](https://github.com/baggelisp/RPN_Calculator/blob/master/demo.jpg?raw=true)
